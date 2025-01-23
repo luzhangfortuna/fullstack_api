@@ -1,3 +1,8 @@
+主要改了chat_api.py的部分，读csv文档
+chatdemo对话界面放到文件夹，老师可以看一下
+
+
+
 # Flask-based Chatbot
 
 This repository includes a simple Python Flask app that streams responses from OpenAI
